@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A09594E-75F7-4E12-ADB9-2FF0AEB58738</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewRepo05</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5118EDCB-1BF7-4D47-BC30-88F112A24123</key>
+		<string>https://github.com/karana1/NewRepo05.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewRepo05/NewRepo05.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5118EDCB-1BF7-4D47-BC30-88F112A24123</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/karana1/NewRepo05.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5118EDCB-1BF7-4D47-BC30-88F112A24123</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5118EDCB-1BF7-4D47-BC30-88F112A24123</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewRepo05</string>
+		</dict>
+	</array>
+</dict>
+</plist>
